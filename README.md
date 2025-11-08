@@ -1,6 +1,6 @@
 # House Price Prediction ML Model
 
-A machine learning model with a user-friendly web interface for predicting house prices based on various features.
+A machine learning model with a user-friendly web interface for predicting house prices based on various features. It is made completely with Cursor AI.
 
 ## Features
 
@@ -51,6 +51,9 @@ The model uses Ridge Regression with optimized hyperparameters:
 - **RMSE**: ~1,336,000
 - **MAE**: ~978,000
 
+
+## Check it LIVE
+@ https://amanhousepredict.streamlit.app/
 ## Features Used for Prediction
 
 - Area (sq ft)
